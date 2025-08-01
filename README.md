@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o David dos Santos Barreto
 
-<!--
-**davidbarreto-dsb/davidbarreto-dsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde novo, desenvolvi uma conexão natural com a tecnologia, através de manutenções e formatações em computadores. Hoje, estudo Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e aprimoro minhas habilidades em programação com foco e dedicação.
 
-Here are some ideas to get you started:
+Acredito que o sucesso na carreira vai além da técnica: valores como lealdade, verdade e família são essenciais para construir parcerias sólidas e deixar um impacto positivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias que uso
+
+- JavaScript  
+- Python  
+- HTML  
+- CSS  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [davidbarreto-dsb](https://www.linkedin.com/in/davidbarreto-dsb)
