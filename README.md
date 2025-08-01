@@ -1,20 +1,26 @@
-# 👋 Olá! Eu sou o David dos Santos Barreto
+# 👋 Olá, eu sou o David dos Santos Barreto
 
-Desde novo, desenvolvi uma conexão natural com a tecnologia, através de manutenções e formatações em computadores. Hoje, estudo Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e aprimoro minhas habilidades em programação com foco e dedicação.
+🚀 Apaixonado por tecnologia desde os 12 anos, comecei fazendo manutenção e formatação de computadores. Hoje, estudo na **Universidade Cruzeiro do Sul** e me dedico à programação com foco em evolução constante.
 
-Acredito que o sucesso na carreira vai além da técnica: valores como lealdade, verdade e família são essenciais para construir parcerias sólidas e deixar um impacto positivo.
-
----
-
-## 🛠️ Tecnologias que uso
-
-- JavaScript  
-- Python  
-- HTML  
-- CSS  
+💡 Valorizo lealdade, verdade e família — princípios que guiam minha jornada profissional e minhas conexões.
 
 ---
 
-## 📫 Contato
+## 🛠️ Tecnologias que domino
 
-- LinkedIn: [davidbarreto-dsb](https://www.linkedin.com/in/davidbarreto-dsb)
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+---
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbarreto-dsb)
+
+---
+
+✨ *“Transformando curiosidade em código e paixão em projetos.”*
